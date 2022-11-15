@@ -12,11 +12,7 @@
 
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=droxt1&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=droxt1&theme=gotham&area=true&hide_border=true&custom_title=%20Contribution%20Graph" width="100%"/>
 
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=droxt1&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="jxareas' profile views" />
 </p>
 
